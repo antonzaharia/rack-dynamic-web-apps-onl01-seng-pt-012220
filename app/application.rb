@@ -5,5 +5,9 @@ class Application
     resp.write "Hello, World"
     resp.finish
   end
+  
+  def game
+    
+  end
 
 end
